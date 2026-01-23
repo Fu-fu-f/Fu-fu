@@ -1,0 +1,9 @@
+Recipe_ID,Strategy,Predicted_Viability,Ingredient_String
+1,Top8_HighVia_1,0.9775324818991706,15.57% dmso + 11.57% sucrose + 4.76% glycerol + 3.30% mannitol + 1.75% trehalose + 0.52% eg + 0.23% fbs + 0.19% creatine
+2,Top8_HighVia_2,1.0002074973243815,9.27% mannitol + 7.77% dmso + 5.16% glycerol + 5.04% eg + 4.89% sucrose + 2.02% trehalose + 0.29% fbs + 0.25% creatine
+3,Top8_HighVia_3,0.9884306027649845,17.35% creatine + 16.58% dmso + 4.41% glycerol + 3.47% mannitol + 2.64% eg + 1.72% sucrose + 0.92% fbs + 0.69% trehalose
+4,Top8_HighVia_4,0.9945814892290328,7.61% creatine + 5.67% mannitol + 5.26% glycerol + 2.77% trehalose + 1.87% eg + 1.26% sucrose + 0.65% dmso + 0.64% fbs
+5,Top8_HighVia_5,0.9958974065578634,19.88% glycerol + 15.46% dmso + 5.06% creatine + 1.81% trehalose + 1.51% mannitol + 1.05% sucrose + 0.51% fbs + 0.42% eg
+6,Top8_HighVia_6,0.9738810621614538,19.19% dmso + 9.79% creatine + 3.94% mannitol + 2.19% trehalose + 1.39% eg + 1.23% sucrose + 0.94% glycerol + 0.19% fbs
+7,Top8_HighVia_7,1.027182908414482,15.25% dmso + 7.81% creatine + 2.39% eg + 2.23% mannitol + 2.21% sucrose + 0.61% fbs + 0.55% trehalose + 0.48% glycerol
+8,Top8_HighVia_8,0.9509565584120954,12.84% eg + 11.51% sucrose + 6.18% mannitol + 2.31% creatine + 0.83% glycerol + 0.76% trehalose + 0.61% dmso + 0.04% fbs

@@ -1,0 +1,196 @@
+all ingredients in cryoprotective solution,eg(%),dmso(%),trehalose(%),fbs(%),sucrose(%),glycerol(%),mannitol(%),creatine(%),viability,recovery,doubling time,cooling rate
+8.56% trehalose,0.0,0.0,8.56,0.0,0.0,0.0,0.0,0.0,0.125,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates. It takes around 14 days for them to double.,slow_freeze
+5% DMSO,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.71,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.82,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates,slow_freeze
+5% DMSO + 20% FBS,0.0,5.0,0.0,20.0,0.0,0.0,0.0,0.0,0.82,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates,slow_freeze
+10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.84,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates,slow_freeze
+10% DMSO + 90% FBS,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.82,0.0,Not explicitly stated; similar cell numbers from day 1 to 14 for fresh and cryopreserved ASCs suggest comparable proliferation rates,slow_freeze
+10% fetal calf serum + 5% DMSO,0.0,5.0,0.0,10.0,0.0,0.0,0.0,0.0,0.6625,0.0,,slow_freeze
+10% DMSO + 10% FBS,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.857,0.0,37.63,slow_freeze
+1.14% w/w trehalose + 2.5% v/v DMSO,0.0,2.5,1.14,0.0,0.0,0.0,0.0,0.0,0.9418,0.9118,,multi_freeze
+10% ethyleneglycol + 2.0% DMSO,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9235,0.8735,stem cells average CFU (36.14¬±2.06)√ó10^5(fresh UCB) and (27.78¬±0.58)√ó10^5(after thawing),multi_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.98,0.629,,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.86,,slow_freeze
+5% DMSO,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.847,0.86,,slow_freeze
+5% DMSO,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.78,0.91,,slow_freeze
+10% DMSO + 10% FBS,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.73,,55.49¬±0.06 h close to the contorl (54.28¬±0.05 h),multi_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.58,,Not mentioned,multi_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,,Not mentioned,slow_freeze
+30% FBS + 5% DMSO,0.0,5.0,0.0,30.0,0.0,0.0,0.0,0.0,0.8507,,Not mentioned,slow_freeze
+10.27% Trehalose,0.0,0.0,10.27,0.0,0.0,0.0,0.0,0.0,0.47,,Not mentioned,slow_freeze
+20.54% Trehalose,0.0,0.0,20.54,0.0,0.0,0.0,0.0,0.0,0.56,,Not mentioned,slow_freeze
+34.23% Trehalose,0.0,0.0,34.23,0.0,0.0,0.0,0.0,0.0,0.65,,Not mentioned,slow_freeze
+42.79% Trehalose,0.0,0.0,42.79,0.0,0.0,0.0,0.0,0.0,0.58,,Not mentioned,slow_freeze
+10% Glycerol,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.54,,Not mentioned,slow_freeze
+20% Glycerol,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.63,,Not mentioned,slow_freeze
+30% Glycerol,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.5,,Not mentioned,slow_freeze
+32.23% Trehalose + 20% Glycerol,0.0,0.0,32.23,0.0,0.0,20.0,0.0,0.0,0.77,,Not mentioned,slow_freeze
+10% DMSO + 90% FBS,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.75,,Not mentioned,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,,Not mentioned,slow_freeze
+7.5% DMSO,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.84,,Not mentioned,slow_freeze
+10% DMSO + 30% FBS,0.0,10.0,0.0,30.0,0.0,0.0,0.0,0.0,0.92,0.51,Not measrued ,slow_freeze
+2.5% DMSO + 30% FBS,0.0,2.5,0.0,30.0,0.0,0.0,0.0,0.0,0.47,0.17,Not measured ,slow_freeze
+20% FBS + 5% DMSO,0.0,5.0,0.0,20.0,0.0,0.0,0.0,0.0,0.87,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 10% DMSO,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.95,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 5% Glycerol,0.0,0.0,0.0,20.0,0.0,5.0,0.0,0.0,0.78,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 10% Glycerol,0.0,0.0,0.0,20.0,0.0,10.0,0.0,0.0,0.83,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 1.03% sucrose,0.0,0.0,0.0,20.0,1.03,0.0,0.0,0.0,0.21,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 2.05% sucrose,0.0,0.0,0.0,20.0,2.05,0.0,0.0,0.0,0.28,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 2.05% trehalose,0.0,0.0,2.05,20.0,0.0,0.0,0.0,0.0,0.36,,30 ¬± 4 hours ,slow_freeze
+20% FBS + 3.42% trehalose,0.0,0.0,3.42,20.0,0.0,0.0,0.0,0.0,0.38,,30 ¬± 4 hours ,slow_freeze
+10% DMSO + 10% FBS,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.297,,Not reported,slow_freeze
+10% DMSO + 10% FBS,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.353,,Not reported,multi_freeze
+80% FCS + 10% DMSO,0.0,10.0,0.0,80.0,0.0,0.0,0.0,0.0,0.841,,Not mentioned,slow_freeze
+2.80% ethylene glycol ,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.65,,Not mentioned ,slow_freeze
+5.58% ethylene glycol ,5.58,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.75,,Not mentioned ,slow_freeze
+8.37% ethylene glycol,8.37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.77,,Not mentioned ,slow_freeze
+7.81% DMSO ,0.0,7.81,0.0,0.0,0.0,0.0,0.0,0.0,0.74,,Not mentioned ,slow_freeze
+15.63% DMSO ,0.0,15.63,0.0,0.0,0.0,0.0,0.0,0.0,0.906,,Not mentioned ,slow_freeze
+23.44% DMSO ,0.0,23.44,0.0,0.0,0.0,0.0,0.0,0.0,0.91,,Not mentioned ,slow_freeze
+80% FCS + 10% DMSO,0.0,10.0,0.0,80.0,0.0,0.0,0.0,0.0,0.841,,Not mentioned ,slow_freeze
+2% DMSO,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.838,,Not mentioned ,slow_freeze
+4% DMSO,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.806,,Not mentioned ,slow_freeze
+6% DMSO,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.86,,Not mentioned ,slow_freeze
+8% DMSO,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.856,,Not mentioned ,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.879,,Not mentioned ,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.827,,Not mentioned ,slow_freeze
+10% DMSO + 10% FBS,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.838,,Not mentioned ,slow_freeze
+10% DMSO + 90% FBS,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.902,,Not mentioned ,slow_freeze
+5.14% Sucrose + 2.28% Mannitol + 0.16% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,2.28,0.16,,0.48,Not mentioned ,multi_freeze
+5.14% Sucrose + 2.5% Glycerol + 0.16% Creatine,0.0,0.0,0.0,0.0,5.14,2.5,0.0,0.16,,0.62,Not mentioned ,multi_freeze
+5.14% Sucrose + 25% Glycerol + 0.16% Creatine,0.0,0.0,0.0,0.0,5.14,25.0,0.0,0.16,0.6,,Not mentioned ,multi_freeze
+5.14% Sucrose + 50% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,5.14,50.0,0.0,0.33,0.7,0.82,Not mentioned ,multi_freeze
+10.27% Sucrose + 50% Glycerol + 0.16% Creatine,0.0,0.0,0.0,0.0,10.27,50.0,0.0,0.16,0.0,0.71,Not mentioned ,multi_freeze
+1.28% Sucrose + 1.15% Mannitol + 0.17% Creatine,0.0,0.0,0.0,0.0,1.28,0.0,1.15,0.17,,0.47,Not mentioned ,multi_freeze
+7.70% Sucrose + 3.42% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,7.7,0.0,3.42,0.04,,0.43,Not mentioned ,multi_freeze
+7.68% Sucrose + 2.28% Mannitol + 0% Creatine,0.0,0.0,0.0,0.0,7.68,0.0,2.28,0.0,,0.29,Not mentioned ,multi_freeze
+0% Sucrose + 1.15% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,0.0,1.15,0.33,,0.54,Not mentioned ,multi_freeze
+2.57% Sucrose + 2.28% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,2.57,0.0,2.28,0.04,,0.48,Not mentioned ,multi_freeze
+1.03% Sucrose + 0.46% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,0.0,0.46,0.33,,0.31,Not mentioned ,multi_freeze
+7.68% Sucrose + 3.42% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,7.68,0.0,3.42,0.04,,0.46,Not mentioned ,multi_freeze
+5.14% Sucrose + 1.15% Mannitol + 0.08% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,1.15,0.08,,0.41,Not mentioned ,multi_freeze
+0% Sucrose + 0.46% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,0.0,0.46,0.33,,0.52,Not mentioned ,multi_freeze
+2.57% Sucrose + 1.15% Mannitol + 0.25% Creatine,0.0,0.0,0.0,0.0,2.57,0.0,1.15,0.25,,0.38,Not mentioned ,multi_freeze
+0.51% Sucrose + 0% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.51,0.0,0.0,0.33,,0.29,Not mentioned ,multi_freeze
+0.85% Sucrose + 1.15% Mannitol + 0.17% Creatine,0.0,0.0,0.0,0.0,0.85,0.0,1.15,0.17,,0.37,Not mentioned ,multi_freeze
+5.14% Sucrose + 1.15% Mannitol + 0% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,1.15,0.0,,0.22,Not mentioned ,multi_freeze
+1.03% Sucrose + 0.46% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,0.0,0.46,0.33,,0.33,Not mentioned ,multi_freeze
+10.27% Sucrose + 4.55% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,10.27,0.0,4.55,0.04,,0.09,Not mentioned ,multi_freeze
+5.14% Sucrose + 3.42% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,3.42,0.04,,0.49,Not mentioned ,multi_freeze
+1.03% Sucrose + 0.46% Mannitol + 0.25% Creatine,0.0,0.0,0.0,0.0,1.03,0.0,0.46,0.25,,0.2,Not mentioned ,multi_freeze
+5.14% Sucrose + 0.46% Mannitol + 0.08% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,0.46,0.08,,0.33,Not mentioned ,multi_freeze
+0% Sucrose + 2.28% Mannitol + 0.17% Creatine,0.0,0.0,0.0,0.0,0.0,0.0,2.28,0.17,,0.32,Not mentioned ,multi_freeze
+5.14% Sucrose + 1.15% Mannitol + 0.08% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,1.15,0.08,,0.34,Not mentioned ,multi_freeze
+1.03% Sucrose + 1.15% Mannitol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,0.0,1.15,0.33,,0.47,Not mentioned ,multi_freeze
+1.03% Sucrose + 2.28% Mannitol + 0.25% Creatine,0.0,0.0,0.0,0.0,1.03,0.0,2.28,0.25,,0.31,Not mentioned ,multi_freeze
+10.27% Sucrose + 4.55% Mannitol + 0% Creatine,0.0,0.0,0.0,0.0,10.27,0.0,4.55,0.0,,0.15,Not mentioned ,multi_freeze
+5.14% Sucrose + 3.42% Mannitol + 0.25% Creatine,0.0,0.0,0.0,0.0,5.14,0.0,3.42,0.25,,0.26,Not mentioned ,multi_freeze
+7.70% Sucrose + 4.55% Mannitol + 0.04% Creatine,0.0,0.0,0.0,0.0,7.7,0.0,4.55,0.04,,0.19,Not mentioned ,multi_freeze
+7.70% Sucrose + 6.30% Glycerol + 0% Creatine,0.0,0.0,0.0,0.0,7.7,6.3,0.0,0.0,,0.94,Not mentioned ,multi_freeze
+10.27% Sucrose + 3.15% Glycerol + 0% Creatine,0.0,0.0,0.0,0.0,10.27,3.15,0.0,0.0,,0.78,Not mentioned ,multi_freeze
+10.27% Sucrose + 3.15% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,10.27,3.15,0.0,0.33,,1.02,Not mentioned ,multi_freeze
+10.27% Sucrose + 0% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,10.27,0.0,0.0,0.33,,0.78,Not mentioned ,multi_freeze
+10.27% Sucrose + 1.57% Glycerol + 0.25% Creatine,0.0,0.0,0.0,0.0,10.27,1.57,0.0,0.25,,0.59,Not mentioned ,multi_freeze
+0% Sucrose + 6.30% Glycerol + 0.25% Creatine,0.0,0.0,0.0,0.0,0.0,6.3,0.0,0.25,,0.64,Not mentioned ,multi_freeze
+2.57% Sucrose + 0.63% Glycerol + 0.25% Creatine,0.0,0.0,0.0,0.0,2.57,0.63,0.0,0.25,,0.53,Not mentioned ,multi_freeze
+1.03% Sucrose + 1.57% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,1.57,0.0,0.33,,0.36,Not mentioned ,multi_freeze
+1.71% Sucrose + 0.63% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.71,0.63,0.0,0.33,,0.38,Not mentioned ,multi_freeze
+2.57% Sucrose + 6.30% Glycerol + 0.04% Creatine,0.0,0.0,0.0,0.0,2.57,6.3,0.0,0.04,,0.67,Not mentioned ,multi_freeze
+0% Sucrose + 6.30% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,6.3,0.0,0.33,,0.76,Not mentioned ,multi_freeze
+5.14% Sucrose + 4.72% Glycerol + 0% Creatine,0.0,0.0,0.0,0.0,5.14,4.72,0.0,0.0,,0.68,Not mentioned ,multi_freeze
+1.03% Sucrose + 0.63% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,0.63,0.0,0.33,,0.31,Not mentioned ,multi_freeze
+7.70% Sucrose + 4.72% Glycerol + 0.08% Creatine,0.0,0.0,0.0,0.0,7.7,4.72,0.0,0.08,,0.44,Not mentioned ,multi_freeze
+2.57% Sucrose + 6.30% Glycerol + 0.17% Creatine,0.0,0.0,0.0,0.0,2.57,6.3,0.0,0.17,,0.46,Not mentioned ,multi_freeze
+0% Sucrose + 6.95% Glycerol + 0.31% Creatine,0.0,0.0,0.0,0.0,0.0,6.95,0.0,0.31,,1.13,Not mentioned ,multi_freeze
+1.71% Sucrose + 4.72% Glycerol + 0% Creatine,0.0,0.0,0.0,0.0,1.71,4.72,0.0,0.0,,1.1,Not mentioned ,multi_freeze
+7.70% Sucrose + 3.15% Glycerol + 0.17% Creatine,0.0,0.0,0.0,0.0,7.7,3.15,0.0,0.17,,0.55,Not mentioned ,multi_freeze
+10.27% Sucrose + 4.72% Glycerol + 0.04% Creatine,0.0,0.0,0.0,0.0,10.27,4.72,0.0,0.04,,0.54,Not mentioned ,multi_freeze
+5.14% Sucrose + 6.30% Glycerol + 0.04% Creatine,0.0,0.0,0.0,0.0,5.14,6.3,0.0,0.04,,0.43,Not mentioned ,multi_freeze
+0% Sucrose + 1.57% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,1.57,0.0,0.33,,0.58,Not mentioned ,multi_freeze
+5.14% Sucrose + 6.30% Glycerol + 0% Creatine,0.0,0.0,0.0,0.0,5.14,6.3,0.0,0.0,,0.54,Not mentioned ,multi_freeze
+0% Sucrose + 0.63% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.33,,0.33,Not mentioned ,multi_freeze
+5.14% Sucrose + 3.15% Glycerol + 0.08% Creatine,0.0,0.0,0.0,0.0,5.14,3.15,0.0,0.08,,0.3,Not mentioned ,multi_freeze
+1.03% Sucrose + 6.30% Glycerol + 0.25% Creatine,0.0,0.0,0.0,0.0,1.03,6.3,0.0,0.25,,0.45,Not mentioned ,multi_freeze
+0% Sucrose + 0.63% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,0.0,0.63,0.0,0.33,,0.21,Not mentioned ,multi_freeze
+1.03% Sucrose + 1.57% Glycerol + 0.17% Creatine,0.0,0.0,0.0,0.0,1.03,1.57,0.0,0.17,,0.39,Not mentioned ,multi_freeze
+5.14% Sucrose + 0.63% Glycerol + 0.17% Creatine,0.0,0.0,0.0,0.0,5.14,0.63,0.0,0.17,,0.68,Not mentioned ,multi_freeze
+1.03% Sucrose + 6.30% Glycerol + 0.25% Creatine,0.0,0.0,0.0,0.0,1.03,6.3,0.0,0.25,,0.43,Not mentioned ,multi_freeze
+1.03% Sucrose + 1.57% Glycerol + 0.33% Creatine,0.0,0.0,0.0,0.0,1.03,1.57,0.0,0.33,,0.41,Not mentioned ,multi_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.7,Not mentioned ,slow_freeze
+10% DMSO + 2% FBS,0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.65,,65-75,slow_freeze
+5% DMSO + 2% FBS,0.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.63,,Not mentioned ,slow_freeze
+3% DMSO + 2% FBS,0.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.67,,130-140h,slow_freeze
+10% FCS + 5% Me2SO,0.0,5.0,0.0,10.0,0.0,0.0,0.0,0.0,0.61,,Not mentioned,slow_freeze
+10% FCS + 5% Me2SO,0.0,5.0,0.0,10.0,0.0,0.0,0.0,0.0,0.73,,Not mentioned,slow_freeze
+10% FCS + 10% Me2SO,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.79,,Not mentioned,slow_freeze
+10% FCS + 10% Me2SO,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.82,,Not mentioned,slow_freeze
+10% FCS + 10% Me2SO,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.87,,Not mentioned,multi_freeze
+10% FCS + 10% Me2SO,0.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.88,,Not mentioned,multi_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.938,,Not mentioned,slow_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.888,,Not mentioned,slow_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.884,,Not mentioned,slow_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.931,,Not mentioned,slow_freeze
+47.6% EG + 1.71% Sucrose,47.6,0.0,0.0,0.0,1.71,0.0,0.0,0.0,0.5,,Not mentioned ,slow_freeze
+47.6% EG + 1.71% Sucrose,47.6,0.0,0.0,0.0,1.71,0.0,0.0,0.0,0.95,,Not mentioned ,slow_freeze
+47.6% EG + 1.71% Sucrose,47.6,0.0,0.0,0.0,1.71,0.0,0.0,0.0,0.98,,Not mentioned ,slow_freeze
+47.6% EG + 1.71% Sucrose,47.6,0.0,0.0,0.0,1.71,0.0,0.0,0.0,0.98,,Not mentioned ,slow_freeze
+1.71% Sucrose,0.0,0.0,0.0,0.0,1.71,0.0,0.0,0.0,0.05,,Not mentioned ,slow_freeze
+3.42%  Sucrose,0.0,0.0,0.0,0.0,3.42,0.0,0.0,0.0,0.17,,Not mentioned ,slow_freeze
+5.13% Sucrose,0.0,0.0,0.0,0.0,5.13,0.0,0.0,0.0,0.6,,Not mentioned ,slow_freeze
+13.69%  Sucrose,0.0,0.0,0.0,0.0,13.69,0.0,0.0,0.0,0.8,,Not mentioned ,slow_freeze
+1.71% Trehalose,0.0,0.0,1.71,0.0,0.0,0.0,0.0,0.0,0.03,,Not mentioned ,slow_freeze
+3.42% Trehalose,0.0,0.0,3.42,0.0,0.0,0.0,0.0,0.0,0.14,,Not mentioned ,slow_freeze
+5.13%Trehalose,0.0,0.0,5.13,0.0,0.0,0.0,0.0,0.0,0.62,,Not mentioned ,slow_freeze
+13.69% Trehalose,0.0,0.0,13.69,0.0,0.0,0.0,0.0,0.0,0.78,,Not mentioned ,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.15,Not mentioned ,slow_freeze
+10% Ethylene Glycol,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.17,Not mentioned ,slow_freeze
+10% glycerol,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,,0.05,Not mentioned ,slow_freeze
+10% DMSO ,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.44,Not mentioned ,slow_freeze
+10% Ethylene Glycol ,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.52,Not mentioned ,slow_freeze
+10% glycerol ,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,,0.18,Not mentioned ,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.74,,Number of cells doubled in approx 3 days ,slow_freeze
+10% Glycerol,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.62,,Number of cells doubled in approx 3 days ,slow_freeze
+15% Glycerol,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.7,,Number of cells doubled in approx 3 days ,slow_freeze
+20% Glycerol,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.58,,Number of cells doubled in approx 3 days ,slow_freeze
+10% DMSO,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.76,,"Number of cells doubled in approx 3 days, before doubling again on day 4",slow_freeze
+10% Glycerol,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.74,,"Number of cells doubled in approx 3 days, before doubling again on day 5",slow_freeze
+15% Glycerol,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.78,,"Number of cells doubled in approx 3 days, before doubling again on day 6",slow_freeze
+20% Glycerol,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.52,,"Number of cells doubled in approx 3 days, before doubling again on day 7",slow_freeze
+0% storage protein 2 + 4% DMSO,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.76,,Approx. 2 days ,slow_freeze
+0% storage protein 2 + 4% DMSO,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.78,,Approx. 2 days ,slow_freeze
+20% FBS + 10% DMSO,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.91,0.79,Not mentioned ,slow_freeze
+20% FBS + 10% DMSO,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.85,,Not mentioned ,slow_freeze
+5% DMSO + 20% FBS + 17.1% Trehalose,0.0,5.0,17.1,20.0,0.0,0.0,0.0,0.0,0.73,,Not mentioned ,slow_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.9,,Not mentioned ,slow_freeze
+3.42% Sucrose + 10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,3.42,0.0,0.0,0.0,0.87,,Not mentioned ,slow_freeze
+3.42% Sucrose + 10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,3.42,0.0,0.0,0.0,0.76,,Not mentioned ,slow_freeze
+3.42% Sucrose + 10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,3.42,0.0,0.0,0.0,0.7,,Not mentioned ,slow_freeze
+6.85% Trehalose + 10% DMSO + 20% FBS,0.0,10.0,6.85,20.0,0.0,0.0,0.0,0.0,0.82,,Not mentioned ,slow_freeze
+6.85% Trehalose + 10% DMSO + 20% FBS,0.0,10.0,6.85,20.0,0.0,0.0,0.0,0.0,0.75,,Not mentioned ,slow_freeze
+6.85% Trehalose + 10% DMSO + 20% FBS,0.0,10.0,6.85,20.0,0.0,0.0,0.0,0.0,0.66,,Not mentioned ,slow_freeze
+3.42% Sucrose + 8.39% EG + 20% FBS,8.39,0.0,0.0,20.0,3.42,0.0,0.0,0.0,0.8,,Not mentioned ,slow_freeze
+3.42% Sucrose + 8.39% EG + 20% FBS,8.39,0.0,0.0,20.0,3.42,0.0,0.0,0.0,0.71,,Not mentioned ,slow_freeze
+3.42% Sucrose + 8.39% EG + 20% FBS,8.39,0.0,0.0,20.0,3.42,0.0,0.0,0.0,0.65,,Not mentioned ,slow_freeze
+10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.85,,Not mentioned ,slow_freeze
+10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.78,,Not mentioned ,slow_freeze
+10% DMSO + 20% FBS,0.0,10.0,0.0,20.0,0.0,0.0,0.0,0.0,0.67,,Not mentioned ,slow_freeze
+7.5% DMSO,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.05,,Not mentioned ,slow_freeze
+Human serum albumin + 20% DMSO,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.948,,Not mentioned ,slow_freeze
+95% FBS + 5% DMSO,0.0,5.0,0.0,95.0,0.0,0.0,0.0,0.0,0.685,,Not measured ,slow_freeze
+92.5% FBS + 7.5% DMSO,0.0,7.5,0.0,92.5,0.0,0.0,0.0,0.0,0.695,,Not measured ,slow_freeze
+90% FBS + 10% DMSO,0.0,10.0,0.0,90.0,0.0,0.0,0.0,0.0,0.735,,Not measured ,slow_freeze
+95% FBS + 5% Ethylene Glycol,5.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.696,,Not measured ,slow_freeze
+92.5% FBS + 7.5% Ethylene Glycol,7.5,0.0,0.0,92.5,0.0,0.0,0.0,0.0,0.72,,Not measured ,slow_freeze
+90% FBS + 10% Ethylene Glycol,10.0,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.738,,Not measured ,slow_freeze
+95% FBS + 5% Glycerol,0.0,0.0,0.0,95.0,0.0,5.0,0.0,0.0,0.424,,Not measured ,slow_freeze
+92.5% FBS + 7.5% Glycerol,0.0,0.0,0.0,92.5,0.0,7.5,0.0,0.0,0.476,,Not measured ,slow_freeze
+90% FBS + 10% Glycerol,0.0,0.0,0.0,90.0,0.0,10.0,0.0,0.0,0.521,,Not measured ,slow_freeze
+6.85% sucrose ,0.0,0.0,0.0,0.0,6.85,0.0,0.0,0.0,0.6,,not mention,slow_freeze
+6.85% sucrose + 1% DMSO,0.0,1.0,0.0,0.0,6.85,0.0,0.0,0.0,0.77,,not mention,slow_freeze
+6.85% sucrose + 2% DMSO,0.0,2.0,0.0,0.0,6.85,0.0,0.0,0.0,0.79,,not mention,slow_freeze
+6.85% sucrose + 5% DMSO,0.0,5.0,0.0,0.0,6.85,0.0,0.0,0.0,0.83,,not mention,slow_freeze
+6.85% sucrose + 10% DMSO,0.0,10.0,0.0,0.0,6.85,0.0,0.0,0.0,0.87,,not mention,slow_freeze
+0.34% trehalose,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0,0.06,,not mention,slow_freeze
+1.71% trehalose,0.0,0.0,1.71,0.0,0.0,0.0,0.0,0.0,0.13,,not mention,slow_freeze
+3.42% trehalose,0.0,0.0,3.42,0.0,0.0,0.0,0.0,0.0,0.4,,not mention,slow_freeze
+8.55% trehalose,0.0,0.0,8.55,0.0,0.0,0.0,0.0,0.0,0.72,,not mention,slow_freeze
