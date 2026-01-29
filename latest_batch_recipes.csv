@@ -1,0 +1,9 @@
+Recipe_ID,Predicted_Viability,Ingredients
+1,69.10856688689233,146.70 trehalose(mM) + 141.11 kh2po4(mM) + 47.11 sucrose(mM) + 45.62 proline(mM) + 13.49 hes(%) + 9.86 peg(%) + 6.85 mc(%) + 4.73 fbs(%)
+2,69.50118446846257,185.93 trehalose(mM) + 80.17 sucrose(mM) + 10.58 peg(%) + 6.47 fbs(%) + 4.15 hes(%) + 4.07 ectoin(%) + 4.01 mc(%) + 3.49 hsa(%)
+3,70.13895187818015,304.93 eg(mM) + 57.36 trehalose(mM) + 8.67 ectoin(%) + 8.06 fbs(%) + 6.80 hes(%) + 5.60 mc(%) + 3.37 peg(%) + 2.75 hsa(%)
+4,69.28721074276547,648.24 dmso(mM) + 242.09 sucrose(mM) + 51.79 proline(mM) + 7.70 fbs(%) + 5.27 peg(%) + 4.16 mc(%) + 3.76 hes(%) + 3.13 ectoin(%)
+5,100.0,146.60 trehalose(mM) + 31.04 eg(mM) + 10.51 peg(%) + 7.56 hes(%) + 6.83 fbs(%) + 6.72 mc(%) + 5.95 ectoin(%) + 2.07 hsa(%)
+6,100.0,152.90 trehalose(mM) + 30.96 eg(mM) + 14.16 mc(%) + 6.31 fbs(%) + 4.53 peg(%) + 3.30 hsa(%) + 2.14 ectoin(%) + 1.02 hes(%)
+7,69.1085667752443,193.71 kh2po4(mM) + 189.37 trehalose(mM) + 186.45 proline(mM) + 172.08 eg(mM) + 133.32 sucrose(mM) + 125.40 k2hpo4(mM) + 11.04 hes(%) + 6.98 fbs(%)
+8,69.30877323028334,173.93 trehalose(mM) + 88.60 eg(mM) + 10.47 ectoin(%) + 8.83 mc(%) + 7.27 fbs(%) + 6.91 hes(%) + 6.76 hsa(%) + 4.63 peg(%)

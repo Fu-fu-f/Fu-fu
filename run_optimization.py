@@ -10,8 +10,9 @@ from src.ingredient_suggestion import Recommender
 def main():
     try:
         rec = Recommender()
-        print("--- Mode: Top 8 Strict High Viability ---")
-        rec.suggest_batch_experiment()
+        print("--- Mode: Bayesian Optimization (EI) with 8-Ingredient Constraint ---")
+        # Generate 8 formulas (between 5 and 10 as requested)
+        rec.suggest_batch_experiment(n=8)
             
     except Exception as e:
         print(f"\n❌ ERROR: {e}")

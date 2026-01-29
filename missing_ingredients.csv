@@ -1,0 +1,465 @@
+all ingredients in cryoprotective solution,dmso usage,cooling rate,viability,recovery,doubling time,comments about method,comments about results,source (doi link),protective protein type,protective protein concentration,non-reducing sugar type,non-reducing sugar concentration,peg weight,peg concentration,alternative cpa type,alternative cpa concentration,basal medium
+10%PVP,"0
+",Equilibrate at 1°C for 30 min Cool at −2°C/min to −9°C Hold at −9°C to −9.1°C for 5 min Cool at −0.3°C/min to −40°C Cool at −10°C/min to −140°C and then immediately plung into liquid nitrogen,6.8±0.23%,Not mentioned ,Not mentioned,,,https://doi.org/10.15283/ijsc.2015.8.2.155,,,,,,,,,
+1% PVP + 99% DMEM ,0%,1°C/min  to −80°C,5.70%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+5% PVP + 95% DMEM,0%,1°C/min  to −80°C,49.30%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+10% PVP + 90% DMEM,0%,1°C/min  to −80°C,69.70%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+20% PVP + 80% DMEM,0%,1°C/min  to −80°C,55.50%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+40% PVP + 60% DMEM ,0%,1°C/min  to −80°C,4.60%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+5% PVP + 85% DMEM + 10% HS,0%,1°C/min  to −80°C,53.20%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+10% PVP + 80% DMEM + 10% HS,0%,1°C/min  to −80°C,72.10%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+20% PVP + 70% DMEM + 10% HS ,0%,1°C/min  to −80°C,61.80%,Not mentioned ,Not mentioned,,,10.1089=ten.tec.2009.0552,,,,,,,,,
+DMEM ,0%,"~1.1°C/min to  –40°C then 0.7°C/min to  –50°C,  then 0.3°C/min  and then 0.1°C/min to  –80°C",25.3% ± 5.7%,Not mentioned ,Not mentioned ,,,https://doi.org/10.1089/scd.2009.0173,,,,,,,,,
+"Sucrose 75 mM, Mannitol 63 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,47%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Mannitol 188 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,43%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Mannitol 125 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,29%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Mannitol 63 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,54%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 75 mM, Mannitol 125 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,48%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 25 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,31%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Mannitol 188 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,46%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 63 mM, Creatine 6 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,41%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Mannitol 25 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,52%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 75 mM, Mannitol 63 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,38%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 0 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,29%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 50 mM, Mannitol 63 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,37%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 63 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,22%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 25 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,33%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Mannitol 250 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,9%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 188 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,49%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 25 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,20%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 25 mM, Creatine 6 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,33%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Mannitol 125 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,32%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 63 mM, Creatine 6 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,34%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 63 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,47%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Mannitol 125 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,31%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Mannitol 250 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,15%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Mannitol 188 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,26%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Mannitol 250 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,19%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Glycerol 684 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,94%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Glycerol 342 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,78%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Glycerol 342 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,102%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Glycerol 0 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,78%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Glycerol 171 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,59%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 684 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,64%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 75 mM, Glycerol 68 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,53%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 171 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,36%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 50 mM, Glycerol 68 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,38%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 75 mM, Glycerol 684 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,67%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 684 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,76%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Glycerol 513 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,68%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 68 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,31%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Glycerol 513 mM, Creatine 6 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,44%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 75 mM, Glycerol 684 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,46%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 754 mM, Creatine 24 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,113%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 50 mM, Glycerol 513 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,110%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 225 mM, Glycerol 342 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,55%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 300 mM, Glycerol 513 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,54%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Glycerol 684 mM, Creatine 3 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,43%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 171 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,58%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Glycerol 684 mM, Creatine 0 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,54%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 68 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,33%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Glycerol 342 mM, Creatine 6 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,30%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 684 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,45%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 0 mM, Glycerol 68 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,21%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 171 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,39%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 150 mM, Glycerol 68 mM, Creatine 13 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,68%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 684 mM, Creatine 19 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,43%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+"Sucrose 30 mM, Glycerol 171 mM, Creatine 25 mM",0%,"1. Starting temp 20°C
+2.-10°C/min to 0°C
+3. Hold at 0°C for 15 min
+4.-1°C/min to-8°C
+5.-50°C/min to-45°C
+6. +15°C/min to-12°C
+7.-3°C/min to-100°C",Not mentioned ,41%,Not mentioned ,,,https://doi.org/10.1089/TEN.TEC.2016.0288,,,,,,,,,
+PEG 400 (10 wt% in DMEM）,"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,5%,Not mentioned ,"Trypan blue and CCK-8 assay was utilized to quantify cell viability and cytotoxicity. Alizarin Red staining, Oil Red O staining, and Alcian Blue staining were employed to confirm the ability of osteogenic differentiation, adipogenic differentiation, chondrogenic differentiation respectively.","The result showed the 2h pretreatment of 400KDa-600KDa PEG and 0h pretreatment of middle range of molecular weight of PEG (1K, 1.5K, 5K Da) can improve the recovery rate of MSCs in cryoprotectant.",https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 600 (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,5%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,35%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1.5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,48%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,55%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 10K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,28%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 20K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,22%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 400 (10 wt% in DMEM）,"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,50%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 600 (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,50%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,30%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1.5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,20%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,10%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 10K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,5%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 20K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,3%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+DMSO 10% in DMEM (control),10%,1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,70 ± 2.8%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 400 (10 wt% in DMEM）,"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,20%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 600 (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,10%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,8%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 1.5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,5%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 5K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,5%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 10K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,3%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+PEG 20K (10 wt% in DMEM),"0
+",1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,2%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+DMSO 10% in DMEM (control),10%,1°C/min  to −80°C and then stored in a liquid nitrogen tank,Not mentioned ,70 ± 2.8%,Not mentioned ,,,https://doi.org/10.1186/s40824-023-00356-z,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+10% DMSO in culture medium (Knockout DMEM),10%,-1°C/min in alcohol bath to -80°C,Not reported ,15%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,Not used ,Not used 
+10% Ethylene Glycol (EG) in culture medium (Knockout DMEM),0%,-1°C/min in alcohol bath to -80°C,Not reported ,17%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,10%,Not used 
+10% propylene glycol (PEG) in culture medium (Knockout DMEM),0%,-1°C/min in alcohol bath to -80°C,Not reported ,10%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,10%,Not reported ,,Not used ,Not used 
+10% glycerol in culture medium (Knockout DMEM),0%,-1°C/min in alcohol bath to -80°C,Not reported ,5%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,10%,Not used ,Not reported ,,Not used ,Not used 
+10% Ethylene Glycol (EG) in culture medium (Knockout DMEM) + 10 µM ROCK Inhibitor ,0%,-1°C/min in alcohol bath to -80°C,Not reported ,22%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,10%,Not used 
+10% DMSO in culture medium (Knockout DMEM) + Accutase ,10%,-1°C/min in alcohol bath to -80°C,Not reported ,44%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,Not used ,Not used 
+10% Ethylene Glycol (EG) in culture medium (Knockout DMEM) + Accutase,0%,-1°C/min in alcohol bath to -80°C,Not reported ,52%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,10%,Not used 
+10% propylene glycol (PEG) in culture medium (Knockout DMEM )+ Accutase,0%,-1°C/min in alcohol bath to -80°C,Not reported ,24%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,10%,Not reported ,,Not used ,Not used 
+10% glycerol in culture medium (Knockout DMEM) + Accutase,0%,-1°C/min in alcohol bath to -80°C,Not reported ,18%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,10%,Not used ,Not reported ,,Not used ,Not used 
+10% Ethylene Glycol (EG) in culture medium (Knockout DMEM) + 10 µM ROCK Inhibitor + Accutase,0%,-1°C/min in alcohol bath to -80°C,Not reported ,12%,Not mentioned ,,,doi:10.4061/2011/981606,Not used ,Not used ,Not used ,Not used ,Not used ,,,10%,Not used 
+"6% Hydroxyethyl Starch, 20% DMSO, in 50 mL cell suspension (final 10% DMSO)",10%,"Controlled-rate freezing at -1°C/min to -80°C, then gas-phase liquid nitrogen storage",Not Mentioned,Not Mentioned,Not mentioned ,"HPC collected from 94 patients (2013–2022) via apheresis, platelet depletion, volume reduction, cryopreserved with 10% DMSO + 6% HES in EVA bags, controlled-rate freezing (MiniDigitcool), stored in gas-phase LN2; microbiological testing negative",,10.1186/s12967-022-03703-1,,,,,,,,,
+Culture medium (2:1 DMEM/HAM F12 with supplements),,Rapid thawing at 37°C,Not Mentioned,Not Mentioned,Not mentioned ,"Rapid thawing at 37°C, centrifugation at 112×g for 5 min, resuspension in culture medium",,10.1089/bio.2020.0091,,,,,,,,,
+50 mg/ml P1 (PEG−PA; 5000−500) in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,70%,Not measured ,"PEG−PA block copolymers were synthesized via the ring-opening polymerization of N-carboxy anhydrides of L-alanine initiated by α-amino-ω-methoxy PEG. Post thaw, the cells were counted using trypan blue staining.  The cell recovery values at 24 h after plating were calculated by multiplying cell recovery after thawing and optical density at 450 nm at 24 h after plating",the PEG−PA (5000−500) block copolymer is suggested to be a promising antifreezing cryoprotectant for stem cells,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+50 mg/ml P1(45) (PEG−PA; 5000−500) in DMEM ,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,87%,Not measured ,Thawed at 45C,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+50 mg/ml P2 (PEG−PA; 5000−760) in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,50%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+30 mg/ml P3(PEG−PA; 5000−1750) in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,20%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+50 mg/ml P4 (PEG−PA; 1000−750) in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,15%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+50 mg/ml PEG 5000 in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,35%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+50 mg/ml PEG 1000 in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,17%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+30 mg/ml 80% Hydrolysed PVA in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,10%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+30 mg/ml 100% Hydrolysed PVA in DMEM,0%,-1 ◦C/min to −80 ◦C then transferred to liquid nitrogen at -196°C,Not reported ,12%,Not measured ,,,https://doi.org/10.1021/acsami.1c09933,,,,,,,,,
+,,,,,,,,10.1007/s00232-016-9916-z,,,,,,,,,
